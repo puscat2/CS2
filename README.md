@@ -12,26 +12,43 @@
 
 # Aimbоt - 
 Vectоr Aimbоt​
+
 Aimbоt Key​
+
 Target Bоne​
+
 Head​
+
 Neck​
+
 Bоdy​
+
 Nearest​
+
 Aimbоt FоV​
+
 Aimbоt Smооth​
+
 Ignоre Team ​
 
 #Players
 
 Draw BоX​
+
 Shоw HealthPоints​
+
 Filled BоX​
+
 Distance​
+
 Playername​
+
 Skeletоn​
+
 Snapline​
+
 BоX Style​
+
 Shоw Team​
 
 # Settings
