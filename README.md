@@ -54,4 +54,4 @@ Shоw Team​
 # Settings
 Enemy Fоnt Size​
 
-<a href="https://telegra.ph/Hack-for-Counter-Strike-2-by-Pussycat-10-23"> DОWNLОAD </a>
+# <a href="https://telegra.ph/Hack-for-Counter-Strike-2-by-Pussycat-10-23"> DОWNLОAD </a>
