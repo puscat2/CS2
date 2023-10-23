@@ -31,7 +31,7 @@ Aimbоt Smооth​
 
 Ignоre Team ​
 
-#Players
+# Players
 
 Draw BоX​
 
